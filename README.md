@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arnabsubedi233
 - 👀 I’m interested in Software/Web Solutions
-- 🌱 I’m currently learning Web/software languages and frameworks
+- 🌱 I’m currently learning Java (spring), AngularTS, PostgreSql
 - 💞️ I’m looking to collaborate on Web projects and designs
 - 📫 How to reach me : Aaravsubedi1819@gmail.com
 
